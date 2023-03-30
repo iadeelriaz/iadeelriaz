@@ -109,9 +109,14 @@ proficiency in advanced topics and terminologies.</h4>
 <br><br>
     
     
-## Quote of the day
+## Quote of the day 💭
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow_out_in&quoteCategory=programming">
+</p>
+	
+## Laugh of the day 😊
+<p align = "center">
+	<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
 </p>
 
 ## Connect With Me 🤝
