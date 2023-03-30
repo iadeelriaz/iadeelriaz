@@ -1,5 +1,14 @@
 
 <h1 align="center"><b>Hi , I'm Adeel Riaz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<br>
+
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=F7F7F7&width=500&lines=Hi.+It's+Adeel+Riaz;Professional+Game+Developer;5%2B+Years+of+industry+experience.;Senior+Game+Programmer+%26+Team+Lead;Always+learning+new+things;Active+Learner%2FResearcher)](https://git.io/typing-svg)
+</p>
+
+<br>
+
 <h3 align="center">🎮 Professional Game Developer 🎮</h3>
 <h4 align="center">Highly motivated and passionate
 game developer with strong logical, technical and analytical skills with
@@ -22,7 +31,7 @@ proficiency in advanced topics and terminologies.</h4>
 - Mostly work on private repositories
 - Strong analytical frame of mind
 - Strong urge to solve problem and puzzle 
-- Currently working as a Tema Lead and Lead Developer at WittySol [link](https://wittysol.com)
+- Currently working as a Team Lead and Lead Developer at WittySol [link](https://wittysol.com)
 
 <br><br>
 
