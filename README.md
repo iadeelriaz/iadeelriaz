@@ -123,7 +123,10 @@ proficiency in advanced topics and terminologies.</h4>
 
 ## A Snake Eating My Contributions 🐍
 
-![snake gif](https://github.com/iadeelriaz/iadeelriaz/blob/main/assets/mdimages/github-contribution-grid-snake.gif)
+<div align="center">
+  <img  src="https://github.com/iadeelriaz/iadeelriaz/blob/main/assets/mdimages/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <br>
 <img src="https://github.com/iadeelriaz/iadeelriaz/blob/main/assets/mdimages/divider.gif">
