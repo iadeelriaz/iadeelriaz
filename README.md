@@ -12,7 +12,10 @@
 <h3 align="center">🎮 Professional Game Developer 🎮</h3>
 <h4 align="center">Highly motivated and passionate
 game developer with strong logical, technical and analytical skills with
-proficiency in advanced topics and terminologies.</h4>
+proficiency in advanced topics and terminologies. I have gained
+knowledge and skills in game design, programming, and testing. I have experience working with game engines
+like Unity and Unreal Engine, as well as with programming languages such as C# and C++
+</h4>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=51&duration=4000&color=F7F7F7&background=1E1E1E&multiline=true&width=1100&height=140&lines=public+static+GameManager+Instance;void+Awake()+%3D%3E+Instance+%3D+this)](https://git.io/typing-svg)
 
