@@ -123,11 +123,11 @@ proficiency in advanced topics and terminologies.</h4>
 
 ## Connect With Me 🤝
 
-<br><br>
+<br>
     <a href="https://www.linkedin.com/in/iadeelriaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:aadi.mirxa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     
-<br><br>
+<br>
     
 ## Quote of the day 💭
 <p align = "center">
