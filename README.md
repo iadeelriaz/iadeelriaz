@@ -78,6 +78,14 @@ proficiency in advanced topics and terminologies.</h4>
     
 <br> 
     
+- **Websites / Cloud Hosting**:
+	
+	![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+	![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+	![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+    
+<br> 
+       
 - **CI / CD**:
 	
 	![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -90,11 +98,10 @@ proficiency in advanced topics and terminologies.</h4>
     
     <a href="https://slack.com/" target="_blank"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="c"/> </a>
     <a href="https://trello.com/en" target="_blank"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="c"/> </a>
+    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
     ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
     ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-    ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-    ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+
     
 <br> 
     
@@ -112,7 +119,15 @@ proficiency in advanced topics and terminologies.</h4>
 <br><br>
 <img src="https://github.com/iadeelriaz/iadeelriaz/blob/main/assets/mdimages/divider.gif">
 <br><br>
+
+
+## Connect With Me 🤝
+
+<br><br>
+    <a href="https://www.linkedin.com/in/iadeelriaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:aadi.mirxa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     
+<br><br>
     
 ## Quote of the day 💭
 <p align = "center">
@@ -124,12 +139,6 @@ proficiency in advanced topics and terminologies.</h4>
 	<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
 </p>
 
-## Connect With Me 🤝
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/iadeelriaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:aadi.mirxa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>  
 
 ## A Snake Eating My Contributions 🐍
 
