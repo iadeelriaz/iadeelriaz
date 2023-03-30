@@ -4,7 +4,8 @@
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3500&pause=1000&color=198D00&center=true&vCenter=true&width=800&height=70&lines=Hi.+It's+Adeel+Riaz;Professional+Game+Developer;5%2B+Years+of+industry+experience.;Senior+Game+Programmer+%26+Team+Lead;Always+learning+new+things;Strong+analytical+frame+of+mind;Strong+urge+to+solve+problem+and+puzzle;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3500&pause=1000&color=198D00&center=true&vCenter=true&width=800&height=70&lines=Hi.+It's+Adeel+Riaz;Professional+Game+Developer;5%2B+Years+of+industry+experience.;Senior+Game+Programmer+%26+Team+Lead;Always+learning+new+things;Strong+analytical+frame+of+mind;Strong+urge+to+solve+problems;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
+</p>
 
 <br>
 
