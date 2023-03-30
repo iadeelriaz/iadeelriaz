@@ -102,22 +102,10 @@ proficiency in advanced topics and terminologies.</h4>
     ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
     
     
-<br><br>
-
-<img src="https://github.com/iadeelriaz/iadeelriaz/blob/main/assets/mdimages/divider.gif">
-
-<br><br>
-
 ## Quote of the day
 
     [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br>
-
-<img src="https://github.com/iadeelriaz/iadeelriaz/blob/main/assets/mdimages/divider.gif">
-
-<<br>
-    
 ## Connect With Me 🤝
     
     <a href="https://www.linkedin.com/in/iadeelriaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
