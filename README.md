@@ -110,8 +110,8 @@ proficiency in advanced topics and terminologies.</h4>
     
     
 ## Quote of the day
-<p align="center">
-    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 ## Connect With Me 🤝
