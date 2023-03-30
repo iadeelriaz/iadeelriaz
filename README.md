@@ -101,6 +101,8 @@ proficiency in advanced topics and terminologies.</h4>
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
     
+</p>
+    
 <br><br>
 
 <img src="https://github.com/iadeelriaz/iadeelriaz/blob/main/assets/mdimages/divider.gif"><br><br> 
@@ -109,8 +111,6 @@ proficiency in advanced topics and terminologies.</h4>
     
     <a href="https://www.linkedin.com/in/iadeelriaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:aadi.mirxa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</p>
     
     
 <!--
