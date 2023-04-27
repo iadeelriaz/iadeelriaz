@@ -34,8 +34,8 @@ like Unity and Unreal Engine, as well as with programming languages such as C# a
 - Mostly work on private repositories
 - Strong analytical frame of mind
 - Strong urge to solve problem and puzzle 
-- Currently working as a Team Lead and Lead Developer at WittySol [link] WittySol (https://wittysol.com)
-- My Resume [link] Resume (https://drive.google.com/file/d/14bTnhslk13HEIJC3SbJDPGkvYTmcqyh2/view)
+- Currently working as a Team Lead and Lead Developer at WittySol [link](https://wittysol.com)
+- My Resume [link](https://drive.google.com/file/d/14bTnhslk13HEIJC3SbJDPGkvYTmcqyh2/view) Resume
 
 <br><br>
 
