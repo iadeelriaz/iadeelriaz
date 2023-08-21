@@ -35,7 +35,7 @@ like Unity and Unreal Engine, as well as with programming languages such as C# a
 - Strong analytical frame of mind
 - Strong urge to solve problem and puzzle 
 - Currently working as a Team Lead and Lead Developer at [Game District](https://gamedistrict.co/)
-- My [Resume](https://drive.google.com/file/d/1CKn_Twat0DflsU_0QPv3JYFa8L9zIwHF/view?usp=sharing){:target="_blank" rel="noopener"}
+- My [Resume](https://drive.google.com/file/d/1CKn_Twat0DflsU_0QPv3JYFa8L9zIwHF/view?usp=sharing)
 
 <br><br>
 
