@@ -9,8 +9,8 @@
 
 <br>
 
-<h3 align="center">🎮 Professional Game Developer 🎮</h3>
-<h4 align="center">Highly motivated and passionate
+<h3 align="center"> 🎮 Game Developer - Game Programmer 🎮</h3>
+<h4 align="center"> Highly motivated and passionate
 game developer with strong logical, technical and analytical skills with
 proficiency in advanced topics and terminologies. I have gained
 knowledge and skills in game design, programming, and testing. I have experience working with game engines
